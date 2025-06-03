@@ -1,0 +1,9 @@
+streamlit
+requests
+beautifulsoup4
+google-generativeai
+duckduckgo-search
+python-dotenv
+pytest
+newspaper3k
+readability-lxml 
